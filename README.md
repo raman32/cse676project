@@ -1,9 +1,8 @@
-# cse676project
-CSE 676 Deep Learning project
+# CSE 676 Deep Learning project
 Please download the whole files as the computation is really slow for training.
 
 ### Step1:
-Create Folders names image_data and image_encoded_data
+Create folders names image_data and image_encoded_data
 
 ### Step2:
 Open the classifier.ipynb file to see the training and other results of the classifier.
